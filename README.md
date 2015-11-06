@@ -1,0 +1,1 @@
+This is a customized shopify theme made for Ava's Cupcakes
